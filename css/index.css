@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600&display=swap');
+
+
+body {
+    background-color: #eef2f6;
+    list-style-type: none;
+}
+.property{
+    background-color: white;
+    width: 25em; 
+    height:35em;
+    border-radius: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7em;
+    list-style-type: none
+}
+.rooms{
+    list-style-type: none;
+}
+.pic{
+width: 25em;
+border-top-left-radius: 0.5em;
+border-top-right-radius: 0.5em;
+}
+.primary-heading{
+    font-family: Source Sans Pro;
+    color: #4c5666;
+    text-align: left;
+    font-size: medium;
+    margin-left: 1em;
+    margin-bottom: 0.1em;
+}
+.regular-heading{
+    font-family: Source Sans Pro;
+    color: #4c5666;
+    text-align: left;
+    font-size: smaller;
+    font-weight: 600;
+    margin-top: 0.8em;
+    margin-left: 1em;
+    margin-bottom: 0.4em;
+}
+
+.money-heading{
+font-weight: 500;
+font-family: Source Sans Pro;
+text-align: left;
+font-size: xx-large;
+margin-left: 0.5em;
+margin-top: 0.1em;
+margin-bottom: 0.1em;
+}
+.vector{
+    width: 1.54em;
+    margin-left: 1em;
+    margin-top: 0.89em;
+}
+.thin-heading{
+font-weight: 400;
+font-family: Source Sans Pro;
+font-size: large;
+color: #4c5666 ;
+margin-top: 0.2em;
+margin-left: 1em;
+justify-content: space-evenly;
+}
+.thin-heading5{
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    font-size: medium;
+    color: #4c5666 ;
+    margin-top: 0.1em;
+    margin-left: 0.3em;
+    justify-content: space-evenly;
+    }
+.howmany {
+    font-weight: 600;
+    font-family: Source Sans Pro;
+    font-size: medium;
+    margin-left: 1em;
+    text-align: center;
+    align-content: center;
+}
+.box2{
+    border-top: 0.08em solid #e3e8ef;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    align-content: left;
+
+}
+.thin-heading2{
+font-weight: 300;
+font-family: Source Sans Pro;
+text-align: left;
+font-size: medium;
+color: #4c5666 ;
+margin-left: 1em;
+margin-top: 0.1em;
+}
+
+.bold-heading{
+font: weight 600;
+color: black;
+font-family: Source Sans Pro;
+text-align: left;
+font-size: medium;
+margin-left: 1em;
+margin-top: 0.1em;
+margin-bottom: 0.1em;
+    
+}
+.box3{
+    border-top: 0.08em solid #e3e8ef;
+    background-color:#f8fafc ;
+    height:5em;
+ 
+}
+.box4{
+    border-top: 0.08em solid #e3e8ef;
+    background-color:#4251ac ;
+    height:4em;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;   
+}
+.learn-heading{
+font-family:Source Sans Pro;
+font-weight: 500;
+font-size: medium;
+color: white;
+text-align: center;
+}
