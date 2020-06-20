@@ -4,6 +4,13 @@
 body {
     background-color: #eef2f6;
     list-style-type: none;
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    font-family: Source Sans Pro;
+    font-size: medium;
+    list-style-type: none;
+    
+    
 }
 .property{
     background-color: white;
@@ -12,18 +19,15 @@ body {
     border-radius: 0.5em;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 7em;
-    list-style-type: none
-}
-.rooms{
-    list-style-type: none;
+    margin-top: 5em;
+
 }
 .pic{
 width: 25em;
 border-top-left-radius: 0.5em;
 border-top-right-radius: 0.5em;
 }
-.primary-heading{
+.title-heading{
     font-family: Source Sans Pro;
     color: #4c5666;
     text-align: left;
@@ -35,11 +39,11 @@ border-top-right-radius: 0.5em;
     font-family: Source Sans Pro;
     color: #4c5666;
     text-align: left;
-    font-size: smaller;
+    font-size: medium;
     font-weight: 600;
     margin-top: 0.8em;
     margin-left: 1em;
-    margin-bottom: 0.4em;
+    margin-bottom: 0.2em;
 }
 
 .money-heading{
@@ -52,68 +56,73 @@ margin-top: 0.1em;
 margin-bottom: 0.1em;
 }
 .vector{
-    width: 1.54em;
-    margin-left: 1em;
-    margin-top: 0.89em;
+    width: 30px;
+
 }
-.thin-heading{
+.address-heading{
 font-weight: 400;
 font-family: Source Sans Pro;
 font-size: large;
 color: #4c5666 ;
-margin-top: 0.2em;
+margin-top: 0.1em;
 margin-left: 1em;
-justify-content: space-evenly;
 }
 .thin-heading5{
     font-weight: 400;
     font-family: Source Sans Pro;
-    font-size: medium;
+    font-size: large;
     color: #4c5666 ;
-    margin-top: 0.1em;
-    margin-left: 0.3em;
-    justify-content: space-evenly;
+    margin-left: 0.1em;
+    list-style-type: none;
+ 
     }
 .howmany {
     font-weight: 600;
     font-family: Source Sans Pro;
-    font-size: medium;
+    font-size: large;
     margin-left: 1em;
-    text-align: center;
-    align-content: center;
+    margin-right: 0.1em;
+
+}
+li{
+    align-items: center;
+    margin-top: 1em;
+    display: flex;
+
 }
 .box2{
     border-top: 0.08em solid #e3e8ef;
     margin-bottom: 1em;
-    margin-top: 1em;
-    align-content: left;
-
+    list-style-type: none;
+    align-items: center;
+    content: align;
 }
-.thin-heading2{
+.phone-heading{
 font-weight: 300;
 font-family: Source Sans Pro;
 text-align: left;
-font-size: medium;
+font-size: large;
 color: #4c5666 ;
-margin-left: 1em;
-margin-top: 0.1em;
+margin-left: 0.8em;
+margin-top: 0.2em;
 }
 
-.bold-heading{
+.realtor-name-heading{
 font: weight 600;
 color: black;
 font-family: Source Sans Pro;
 text-align: left;
-font-size: medium;
-margin-left: 1em;
-margin-top: 0.1em;
+font-size: large;
+margin-left: 0.9em;
+margin-top: 0em;
 margin-bottom: 0.1em;
     
 }
 .box3{
     border-top: 0.08em solid #e3e8ef;
     background-color:#f8fafc ;
-    height:5em;
+    height:6em;
+
  
 }
 .box4{
@@ -121,7 +130,8 @@ margin-bottom: 0.1em;
     background-color:#4251ac ;
     height:4em;
     border-bottom-left-radius: 0.5em;
-    border-bottom-right-radius: 0.5em;   
+    border-bottom-right-radius: 0.5em;
+    margin-bottom: 5em;   
 }
 .learn-heading{
 font-family:Source Sans Pro;
